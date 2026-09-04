@@ -3,5 +3,5 @@ layout: page
 title: "Featured Projects"
 subtitle: "A look at what I've been working on"
 ---
-#Objects
-![Objects Thumbnail](assets/img/ObjectsThumbnail.jpeg)
+# Objects
+![Objects Thumbnail](assets/img/ObjectsThumbnail.jpeg | 50x50)
