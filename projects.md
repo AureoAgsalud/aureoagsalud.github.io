@@ -4,7 +4,7 @@ title: "Featured Projects"
 subtitle: "A look at what I've been working on"
 ---
 # Objects
-Blast off these space objects in this arcade shooter. Programmed with Unity, unique enemy mechanics are made to destroy your ship. 
+Blast off into space in this arcade shooter. Programmed with Unity, unique enemy mechanics are made to destroy your starship. 
 Developed a game from scratch and learned the fundamentals of classes such as player, weapons, and enemies.
 
 First, I developed a self-destructing enemy that explodes upon contact with your starship. I then designed a second enemy that shoots from a specific distance, which became the most challenging but rewarding mechanic to implement. 
