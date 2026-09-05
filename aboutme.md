@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: "I used to be an adventurer like you, then I took an arrow in the knee." — Whiterun Guard
+subtitle: "I used to be an adventurer like you, then I took an arrow in the knee." - Whiterun Guard
 ---
 I grew up in a household where my siblings and I had different consoles such as the Playstation 2 to the Nintendo DS to even the Gameboy Advance. Video games was the thing that formed our different hobbies and creative mindsets. As time goes on, the games just kept getting better and better, but of course we can't forget the classics that started the evolution of video games. This peaked my interest in wanting to have my dream career in the video game industry. I thought it was so cool that behind the creation of a game, there's a team or person who built it with their creativity. 
 
