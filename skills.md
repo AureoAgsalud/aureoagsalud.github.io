@@ -4,7 +4,7 @@ title: Skills
 subtitle: 
 ---
 ## Languages
-C# 
+C#
 Java   
 Python   
 JavaScript   
