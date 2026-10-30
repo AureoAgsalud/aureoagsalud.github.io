@@ -3,7 +3,7 @@ layout: page
 title: "Featured Projects"
 subtitle: "A look at what I've been working on"
 ---
-#Toy Soldier Down
+# Toy Soldier Down
 Shoot your way out of the room and into your space ship. Solve custom puzzles and trigger multiple cutscenes until you reach the final boss, Robot Brad.
 <video src = "/assets/videos/ToySoldierDown.mp4">
 # Star Killers
