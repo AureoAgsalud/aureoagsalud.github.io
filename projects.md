@@ -3,6 +3,9 @@ layout: page
 title: "Featured Projects"
 subtitle: "A look at what I've been working on"
 ---
+#Toy Soldier Down
+Shoot your way out of the room and into your space ship. Solve custom puzzles and trigger multiple cutscenes until you reach the final boss, Robot Brad.
+<video src = "/assets/videos/ToySoldierDown.mp4">
 # Star Killers
 Blast off into space in this arcade shooter. Programmed with Unity, unique enemy mechanics are made to destroy your starship. 
 Developed a game from scratch and learned the fundamentals of classes such as player, weapons, and enemies.
